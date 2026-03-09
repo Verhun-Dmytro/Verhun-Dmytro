@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dmytro Verhun | Software Developer</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <canvas id="waveCanvas"></canvas>
+
+    <div class="floating-socials">
+        <a href="#" aria-label="GitHub" class="social-icon"><i data-lucide="github"></i></a>
+        <a href="#" aria-label="LinkedIn" class="social-icon"><i data-lucide="linkedin"></i></a>
+        <a href="#" aria-label="Twitter" class="social-icon"><i data-lucide="twitter"></i></a>
+    </div>
+
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo">VD<span>.</span></a>
+            
+            <div class="burger" id="burger">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="hero" class="hero section">
+        <div class="container hero-wrapper">
+            <div class="hero-content reveal">
+                <h1>Hi, I'm <span class="highlight">Dmytro Verhun</span></h1>
+                <h2>Software Developer & Architect</h2>
+                <p>I specialize in building robust backend systems and intuitive digital experiences. Focused on scalable architecture and clean, efficient code.</p>
+                <div class="hero-btns">
+                    <a href="#projects" class="btn primary">View Projects</a>
+                    <a href="#" class="btn secondary">Download CV</a>
+                </div>
+            </div>
+            <div class="hero-visual reveal">
+                <div class="bubble-container">
+                    <div class="bubble">
+                        <img src="https://tse1.explicit.bing.net/th/id/OIP.GJbNC_TDyWTucJunt1T2fQHaI_?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Profile Photo">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="about section">
+        <div class="container reveal">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-container">
+                <div class="bio-text">
+                    I'm a developer transitioning into Python backend roles, building on a solid foundation of practical experience. My journey began in system administration, where I honed my automation skills by writing Bash scripts to secure and manage Linux servers.
+                    <br><br>
+                    From there, I moved into enterprise software development. I learned to navigate complex business logic from the ground up, focusing on tasks like API integrations (e.g., with the 'Nova Poshta' delivery service), re-architecting data exchange processes, and building custom tools that directly supported daily business operations.
+                    <br><br>
+                    Today, I'm actively coding in Python. I combine my experience with databases (PostgreSQL), automation, and APIs to build functional backend solutions. I am eager to apply these skills in a commercial Python development role.
+                </div>
+
+                <div class="sidebar-right">
+                    <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80" alt="Profile" class="profile-photo">
+                    
+                    <div class="interests-wrapper">
+                        <span class="interests-label">Interest in</span>
+                        <div class="achievements-grid">
+                            <div class="achievement"><i data-lucide="terminal"></i> Програмування</div>
+                            <div class="achievement"><i data-lucide="gamepad-2"></i> Ігри</div>
+                            <div class="achievement"><i data-lucide="music"></i> Гра на гітарі</div>
+                            <div class="achievement"><i data-lucide="book-open"></i> Книги</div>
+                            <div class="achievement"><i data-lucide="mountain"></i> Природа</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="skills section">
+        <div class="container">
+            <h2 class="section-title reveal">Technical Arsenal</h2>
+            <div class="skills-grid" id="skills-grid">
+                <div class="skill-card"><span>Python</span></div>
+                <div class="skill-card"><span>1C</span></div>
+                <div class="skill-card"><span>PostgreSQL</span></div>
+                <div class="skill-card"><span>MSSQL</span></div>
+                <div class="skill-card"><span>SQLAlchemy</span></div>
+                <div class="skill-card"><span>Aiogram</span></div>
+                <div class="skill-card"><span>Excel</span></div>
+                <div class="skill-card"><span>Linux</span></div>
+                <div class="skill-card"><span>Bash</span></div>
+                <div class="skill-card"><span>Git</span></div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="projects section">
+        <div class="container">
+            <h2 class="section-title reveal">Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card reveal">
+                    <div class="project-img-container">
+                        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80" alt="Project One">
+                    </div>
+                    <div class="project-action">
+                        <a href="#" class="btn-github"><i data-lucide="github"></i> GitHub</a>
+                    </div>
+                    <div class="project-info">
+                        <h3>Automation Engine</h3>
+                        <p>Backend automation system focusing on high-speed data processing and API integration.</p>
+                    </div>
+                </div>
+                <div class="project-card reveal">
+                    <div class="project-img-container">
+                        <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc51?auto=format&fit=crop&w=600&q=80" alt="Project Two">
+                    </div>
+                    <div class="project-action">
+                        <a href="#" class="btn-github"><i data-lucide="github"></i> GitHub</a>
+                    </div>
+                    <div class="project-info">
+                        <h3>SQL Optimizer</h3>
+                        <p>Custom SQL optimization tool for PostgreSQL, handling millions of rows with SQLAlchemy.</p>
+                    </div>
+                </div>
+                <div class="project-card reveal">
+                    <div class="project-img-container">
+                        <img src="https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&w=600&q=80" alt="Project Three">
+                    </div>
+                    <div class="project-action">
+                        <a href="#" class="btn-github"><i data-lucide="github"></i> GitHub</a>
+                    </div>
+                    <div class="project-info">
+                        <h3>System Monitor</h3>
+                        <p>Linux Bash automation scripts for server health monitoring and auto-scaling.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact section">
+        <div class="container">
+            <h2 class="section-title reveal">Get In Touch</h2>
+            <div class="contact-wrapper-centered reveal">
+                <form id="contact-form" class="contact-form">
+                    <input type="text" id="name" placeholder="Name" required>
+                    <input type="email" id="email" placeholder="Email" required>
+                    <textarea id="message" rows="5" placeholder="Your Message" required></textarea>
+                    <button type="submit" class="btn primary">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container footer-content">
+            <p>&copy; 2026 Dmytro Verhun. All rights reserved.</p>
+            <div class="footer-links">
+                <a href="#">GitHub</a>
+                <a href="#">LinkedIn</a>
+                <a href="#">Email</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>lucide.createIcons();</script>
+</body>
+</html>
