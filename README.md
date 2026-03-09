@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 💻 Software Developer | B.S. in Computer Science | M.S. in Management (Agile Software Development)
 
-- 🔭 I’m currently working on **1С, Python, Aiogram, SQLAlchemy, Docker,**
+- 🔭 I’m currently working on **Python, Aiogram, SQLAlchemy, Docker,PSQL,Linux.**
 
 - 🌱 I am actively expanding my technical toolkit through **professional development courses.**
 
@@ -43,27 +43,38 @@
 
 
 <!--- stats & Trophy (start) -->
-<p align="center">
   <!--- stats (start) -->
+<!--- stats & Trophy (start) -->
+
+<p align="center">
+
 <table align="center">
 <tr border="none">
+
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Verhun-Dmytro&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+
+<br>
+
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats"
+     alt="Mark streak"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Verhun-Dmytro&theme=dark&hide_border=false" />
+
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Verhun-Dmytro&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Verhun-Dmytro&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+</td>
+
 </tr>
 </table>
 
+</p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"
+     alt="Space shooter contribution graph" />
 </p>
 <!--- stats (end) -->
 
@@ -73,8 +84,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://trophy.ryglcloud.net/?username=Verhun-Dmytro&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="TROPHY" />
 </div>
-
-<!--- trophy (start) -->
+<!--- trophy (end) -->
 
 
       
