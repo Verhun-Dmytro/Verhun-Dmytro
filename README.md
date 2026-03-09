@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 💻 Software Developer | B.S. in Computer Science | M.S. in Management (Agile Software Development)
 
-- 🔭 I’m currently working on **Python, Aiogram, SQLAlchemy, Docker,PSQL,Linux.**
+- 🔭 I’m currently working on **Python, Aiogram, SQLAlchemy, Docker, PSQL, Linux.**
 
 - 🌱 I am actively expanding my technical toolkit through **professional development courses.**
 
