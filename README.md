@@ -40,7 +40,7 @@
 - 💪 I’m currently open for a new job opportunity
 <!--Intro end-->
 
-
+---
 
 <!--- stats & Trophy (start) -->
   <!--- stats (start) -->
@@ -86,7 +86,7 @@
 </div>
 <!--- trophy (end) -->
 
-
+---
       
 <!--- stats (end) -->
 
@@ -100,9 +100,39 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,github,linux,mysql,postgres,sqlite,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,github,linux,mysql,postgres,sqlite,vscode,powershell,qt,windows&perline=14" />           
   </a>
+  <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" alt="sqlalchemy" height="48"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Jira" alt="Jira" height="48"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" height="48"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" height="48"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" title="Debian" alt="Debian" height="48"/>             
 </p>
+
+<!--tech stack icons-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Additionally👨🏻‍💻</h3></summary>
+  </ul>
+  <p align="center">  
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/google-drive-color-icon.svg" title="Google Drive" alt="Google Drive" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/google-docs-icon.svg" title="Google Docs" alt="Google Docs" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/google-chrome-icon.svg" title="Google Chrome" alt="Google Chrome" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/google-sheets-icon.svg" title="Google Sheets" alt="Google Sheets" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/google-slides-icon.svg" title="Google Slides" alt="Google Slides" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/google-meet-icon.svg" title="Google Meet" alt="Google Meet" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/gmail-icon.svg" title="Google Gmail" alt="Google Gmail" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/google-map-icon.svg" title="Google Map" alt="Google Map" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/youtube-color-icon.svg" title="YouTube" alt="YouTube" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/onedrive-color-icon.svg" title="Onedrive" alt="Onedrive" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/office-365-icon.svg" title="Office 365" alt="Office 365" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/microsoft-excel-icon.svg" title="Microsoft Excel" alt="Microsoft Excel" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/microsoft-word-icon.svg" title="Microsoft Word" alt="Microsoft Word" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/microsoft-powerpoint-icon.svg" title="Microsoft Powerpoint" alt="Microsoft Powerpoint" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/img/logo/Additionally/microsoft-teams-icon.svg" title="Microsoft Teams" alt="Microsoft Teams" height="40"/>&nbsp;       
+  </p>
+</div>
 
 
 <!-- Connect with me -->
