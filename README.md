@@ -134,6 +134,42 @@
   </p>
 </div>
 
+<!-- Project with me -->
+---
+<!-- Project Section -->
+<h3 align="center">Project🏆</h3>
+
+<div align="left">
+
+  <!-- OTETO VPN -->
+  <p>
+    <b>Title:</b>
+    <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo-dark.svg#gh-dark-mode-only" height="12"/>
+    <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/OTETO-VPN/OTETO-Logo-light.svg#gh-light-mode-only" height="12"/>
+    <a href="https://OTETO.space/VPN" target="_blank" title="Go to website OTETO">OTETO VPN</a>
+  </p>
+  <p>
+    <b>Description:</b> Setup your personal VPN 🔒 server in just a few simple steps without any specialized knowledge using a straightforward Telegram bot.<br>
+    <b>Platform:</b> Telegram
+  </p>
+
+  <!-- TimeSoft -->
+  <p>
+    <b>Title:</b>
+    <a href="https://timesoft.pp.ua" target="_blank" title="Go to website TimeSoft">
+      <img src="https://raw.githubusercontent.com/Symonovskyi/Symonovskyi/main/src/projects/TimeSoft/TimeSoft-Logo.svg" height="12"/> TimeSoft
+    </a>
+  </p>
+  <p>
+    <b>Description:</b> Track your time ⏱ spent and categorize for increased personal efficiency in the Windows version or Telegram bot.<br>
+    <b>Platform:</b> Windows, Telegram
+  </p>
+
+</div>
+
+---
+<!-- Project with me (end) -->
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
