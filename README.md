@@ -27,13 +27,13 @@
 <!--Intro start-->
 - 💻 Software Developer | B.S. in Computer Science | M.S. in Management (Agile Software Development)
 
-- 🔭 I’m currently working on **Python, Aiogram, SQLAlchemy, Docker, PSQL, Linux.**
+- 🔭 I’m currently working on **Python, Aiogram, SQLAlchemy, Docker, PSQL, Linux**
 
-- 🌱 I am actively expanding my technical toolkit through **professional development courses.**
+- 🌱 I am actively expanding my technical toolkit through **professional development courses**
 
 - 🧠 I actively engage in solving coding challenges on the CodeWars platform [Link]
 
-- 🍭 My personal website [Link]
+- 🍭 My personal website [Link](https://verhun.vercel.app/) — 🚧 Under Construction
 
 - 📫 Feel free to reach me out **vergunwolf69@gmail.com**
 
