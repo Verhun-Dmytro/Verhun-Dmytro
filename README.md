@@ -35,7 +35,7 @@
 
 - 🍭 My personal website [Link](https://verhun.vercel.app/) — 🚧 Under Construction
 
-- 📫 Feel free to reach me out **vergunwolf69@gmail.com**
+- 📫 Feel free to reach me out **verhundo@krok.edu.ua**
 
 - 💪 I’m currently open for a new job opportunity
 <!--Intro end-->
